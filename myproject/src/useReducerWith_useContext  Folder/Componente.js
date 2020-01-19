@@ -1,9 +1,10 @@
 import React from 'react'
+import Componentf from './Componentf'
 
 function Componente() {
     return (
         <div>
-            <Componente />
+            <Componentf />
         </div>
     )
 }
